@@ -65,4 +65,5 @@ Heroku'ya dağıtmaya tıklamadan önce çatalı ve hemen altındaki yıldıza t
 - `/userbotleave` - asistanı sohbetinizden çıkarın
 - `/admincache` - Yönetici listesini yenile
 
-
+### 🚀 Deploy to heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/derdoin/MisakiMusicBOT)
